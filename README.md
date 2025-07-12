@@ -4,7 +4,14 @@ Problem Statement: Skill Swap Platform
 
 Link to application: https://swapper-steel.vercel.app/
 
+Figma Link (UI/UX): https://www.figma.com/design/AJhgj0VxbC5JnfTj97NkMV/Testing?node-id=0-1&p=f&t=aQHFepr6HBOLy5Wx-0
+
 Video Link: https://www.awesomescreenshot.com/video/41961878?key=f8f629af8b477e2679effff74ae82f15 
+
+Schema:
+
+![WhatsApp Image 2025-07-12 at 18 10 19_0807ea2b](https://github.com/user-attachments/assets/fb0fb885-302a-409c-bdc9-f1aa4ab07e43)
+
 
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
